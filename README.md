@@ -1,5 +1,5 @@
 # ORIE-4741-Section-2-Test
 
-Contributors: Yiqing Xin
+Contributors: Yiqing Xin, Larel Newman 
 
-Description:
+Description: repo test
