@@ -1,5 +1,5 @@
-# ORIE-4741-Section-2-Test
+# ORIE-5741-Project-Data-Analysis
 
-Contributors: Yiqing Xin, Larel Newman 
+Contributors: Yiqing Xin, Yiwen Sun, Yihao Luo
 
-Description: repo test
+Description: ORIE 5741 group project with selected topics, data analysis.
