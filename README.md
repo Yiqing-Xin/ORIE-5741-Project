@@ -9,3 +9,6 @@ Data source: FFIEC Home Mortgage Disclosure Act (HMDA)
 https://ffiec.cfpb.gov/data-browser/
   - state = New York
   - year = 2021
+
+
+Final Results Presentation Video is published, please feel free to check: https://youtu.be/ZWi3kI8qSU0
